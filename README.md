@@ -1,7 +1,7 @@
 # MedicalHistory
 
-MedicalHistory.app is a personal medical record system that helps people organize medical documents and track lab results over time.
+MedicalHistory.app helps users organize medical records and track lab results over time.
 
-Users can upload medical reports, extract biomarker values, and build a structured timeline of their health history.
+Upload lab reports, extract biomarker values, and build a personal health timeline.
 
 https://medicalhistory.app
