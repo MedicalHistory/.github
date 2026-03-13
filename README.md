@@ -83,14 +83,11 @@ https://medicalhistory.app
 
 Use-case guides
 
-Track blood test results over time  
-https://medicalhistory.app/track-blood-test-results
+How To Track Lab Results: Complete Guide  
+https://medicalhistory.app/how-to-track-lab-results
 
-Organize medical records  
-https://medicalhistory.app/organize-medical-records
-
-Monitor biomarkers  
-https://medicalhistory.app/monitor-biomarkers
+How to start tracking your biomarkers?  
+https://medicalhistory.app/important-blood-biomarkers-to-track
 
 ---
 
